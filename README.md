@@ -4,6 +4,8 @@ Welcome to the **Student Feedback and Review System** 🚀
 
 This project is designed to collect, manage, and analyze student feedback efficiently. It helps educational institutions improve teaching quality and student experience through a secure and user-friendly platform.
 
+hosting link: https://samarth446.pythonanywhere.com
+
 ## ✨ Features
 
 - 📝 Student Feedback Submission
