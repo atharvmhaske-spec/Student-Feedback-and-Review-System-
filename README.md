@@ -19,10 +19,10 @@ hosting link: https://samarth446.pythonanywhere.com
 # 🛠️ Technologies Used
 
 - HTML
--CSS
+- CSS
 - JavaScript
 - Python
-- MySQL
+- online web hosting
 - Json 
 
 ## 📚 Modules
@@ -30,6 +30,7 @@ hosting link: https://samarth446.pythonanywhere.com
 - Student Module
 - Admin Module
 - Faculty Module
+- Contact Module 
 - Feedback Management System
 - Review & Rating System
 
